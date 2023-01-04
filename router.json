@@ -1,0 +1,6 @@
+{
+    "routes": [
+        {"name": "root", "path": "/", "render": "root.html"},
+        {"name": "blog", "path": "/blog", "render": "blog.html"},
+    ]
+}
